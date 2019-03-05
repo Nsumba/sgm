@@ -19,7 +19,7 @@ collections:
       - {label: "Rating (scale of 1-5)", name: "rating", widget: "number"}
       - {label: "Body", name: "body", widget: "markdown"}
 
-  collections:
+collections:
   - name: "Articles" 
     label: "Articles" 
     folder: "_fyd" 
