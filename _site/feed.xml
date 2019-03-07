@@ -5,9 +5,22 @@
     <description>Christian empowerment</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 07 Mar 2019 17:34:24 +0300</pubDate>
-    <lastBuildDate>Thu, 07 Mar 2019 17:34:24 +0300</lastBuildDate>
+    <pubDate>Thu, 07 Mar 2019 18:11:24 +0300</pubDate>
+    <lastBuildDate>Thu, 07 Mar 2019 18:11:24 +0300</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Test Article</title>
+        <description>&lt;p&gt;Christian organization that exists to educate, train and equip individuals to discover the gifts and talents that are locked up on the inside of them while developing a more intimate relationship with Christ Jesus. We offer mentor ship courses, conferences, speaking engagements, weddings and baptisms.&lt;/p&gt;
+
+&lt;p&gt;Our purpose is to help individuals discover their God given gifts and talents that are locked up on the inside of them to be developed through Mentor-ship, teaching and preaching.To encourage individuals to be intimate with God while developing a healthy balanced life . Win souls for the body of Christ using the demonstration of Gods Power. See the hungry fed, the sick healed, and souls in bondage set free&lt;/p&gt;
+</description>
+        <pubDate>Thu, 07 Mar 2019 00:00:00 +0300</pubDate>
+        <link>http://localhost:4000/2019/03/07/test-article.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/03/07/test-article.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>The first mass-produced book</title>
