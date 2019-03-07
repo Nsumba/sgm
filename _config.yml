@@ -43,3 +43,9 @@ jekyll-archives:
 # Other
 markdown: kramdown
 highlighter: rouge
+
+defaults:
+  - scope:
+      path: "assets/images"
+    values:
+      image: true
