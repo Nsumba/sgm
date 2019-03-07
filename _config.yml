@@ -5,7 +5,7 @@ meta_description: "Christian empowerment."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 paginate: 12
-baseurl: 
+baseurl: /Nsumba/sgm
 email: 'seekinggodmin@gmail.com'
 disqus: 'demowebsite'
 sharethis: '<script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=5a6b2fe4fb197a0011c589f6&product=sticky-share-buttons"></script>'
@@ -44,8 +44,3 @@ jekyll-archives:
 markdown: kramdown
 highlighter: rouge
 
-defaults:
-  - scope:
-      path: "assets/images"
-    values:
-      image: true
