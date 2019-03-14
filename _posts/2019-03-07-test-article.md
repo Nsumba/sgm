@@ -3,7 +3,7 @@ layout: post
 title: Standing on God's Promises
 author: Shelley Nowlin
 Categories: God's Promises
-image: /assets/images/logo.png
+image: /assets/images/head.jpg
 ---
 # **Standing on God’s Promises**
 
