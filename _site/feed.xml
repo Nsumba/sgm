@@ -3,10 +3,10 @@
   <channel>
     <title></title>
     <description>Christian empowerment</description>
-    <link>/</link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 09 Mar 2019 17:02:14 +0300</pubDate>
-    <lastBuildDate>Sat, 09 Mar 2019 17:02:14 +0300</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 10 Mar 2019 22:03:11 +0300</pubDate>
+    <lastBuildDate>Sun, 10 Mar 2019 22:03:11 +0300</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -16,8 +16,8 @@
 &lt;p&gt;Our purpose is to help individuals discover their God given gifts and talents that are locked up on the inside of them to be developed through Mentor-ship, teaching and preaching.To encourage individuals to be intimate with God while developing a healthy balanced life . Win souls for the body of Christ using the demonstration of Gods Power. See the hungry fed, the sick healed, and souls in bondage set free&lt;/p&gt;
 </description>
         <pubDate>Thu, 07 Mar 2019 00:00:00 +0300</pubDate>
-        <link>/2019/03/07/test-article.html</link>
-        <guid isPermaLink="true">/2019/03/07/test-article.html</guid>
+        <link>http://localhost:4000/2019/03/07/test-article.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/03/07/test-article.html</guid>
         
         
       </item>
@@ -37,8 +37,8 @@
 &lt;p&gt;As for this particular rendition of Charles Perrault’s classic tale, the text and design is by Lydia Very (1823-1901), sister of Transcendentalist poet Jones Very. The gruesome ending of the original — which sees Little Red Riding Hood being gobbled up as well as her grandmother — is avoided here, the gore giving way to the less bloody aims of the morality tale, and the lesson that one should not disobey one’s mother.&lt;/p&gt;
 </description>
         <pubDate>Wed, 06 Mar 2019 00:00:00 +0300</pubDate>
-        <link>/2019/03/06/the-first-mass-produced-book.html</link>
-        <guid isPermaLink="true">/2019/03/06/the-first-mass-produced-book.html</guid>
+        <link>http://localhost:4000/2019/03/06/the-first-mass-produced-book.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/03/06/the-first-mass-produced-book.html</guid>
         
         
       </item>
@@ -50,8 +50,8 @@
 &lt;p&gt;It seems to me that education has a two-fold function to perform in the life of man and in society: the one is utility and the other is culture. Education must enable a man to become more efficient, to achieve with increasing facility the ligitimate goals of his life.&lt;/p&gt;
 </description>
         <pubDate>Fri, 12 Jan 2018 00:00:00 +0300</pubDate>
-        <link>/2018/01/12/we-all-wait-for-summer.html</link>
-        <guid isPermaLink="true">/2018/01/12/we-all-wait-for-summer.html</guid>
+        <link>http://localhost:4000/2018/01/12/we-all-wait-for-summer.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/01/12/we-all-wait-for-summer.html</guid>
         
         
       </item>
@@ -72,8 +72,8 @@
 
 </description>
         <pubDate>Fri, 12 Jan 2018 00:00:00 +0300</pubDate>
-        <link>/2018/01/12/tree-of-codes.html</link>
-        <guid isPermaLink="true">/2018/01/12/tree-of-codes.html</guid>
+        <link>http://localhost:4000/2018/01/12/tree-of-codes.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/01/12/tree-of-codes.html</guid>
         
         
       </item>
@@ -93,8 +93,8 @@
 &lt;p&gt;As for this particular rendition of Charles Perrault’s classic tale, the text and design is by Lydia Very (1823-1901), sister of Transcendentalist poet Jones Very. The gruesome ending of the original — which sees Little Red Riding Hood being gobbled up as well as her grandmother — is avoided here, the gore giving way to the less bloody aims of the morality tale, and the lesson that one should not disobey one’s mother.&lt;/p&gt;
 </description>
         <pubDate>Fri, 12 Jan 2018 00:00:00 +0300</pubDate>
-        <link>/jekyll/tutorial/2018/01/12/red-riding.html</link>
-        <guid isPermaLink="true">/jekyll/tutorial/2018/01/12/red-riding.html</guid>
+        <link>http://localhost:4000/jekyll/tutorial/2018/01/12/red-riding.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll/tutorial/2018/01/12/red-riding.html</guid>
         
         
         <category>Jekyll</category>
